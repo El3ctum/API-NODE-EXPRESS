@@ -1,0 +1,28 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Aprendendo Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scarchess/API-NODE-EXPRESS.git"
+  },
+  "keywords": [
+    "Node",
+    "Rest",
+    "API",
+    "Aprendendo"
+  ],
+  "author": "Davi Leal Marçal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scarchess/API-NODE-EXPRESS/issues"
+  },
+  "homepage": "https://github.com/Scarchess/API-NODE-EXPRESS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
