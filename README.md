@@ -5,10 +5,10 @@ Aprendizado de desenvolvimento de API REST com Node.js e Express.js
 Fundamentar os conhecimentos de JavaScript e seus serviços, bem como aprofundar os conhecimentos em conceitos como APIs REST e sua Conexão com SQL.
 
 # INICÍO
-Comecei o projeto assim que recebi o e-mail com as infos da vaga de estágio, então apesar de não ser o primeiro contato com o javaScript e o conceito de APIs, ainda não possuo um conhecimento técnico! Então a aplicabilidade foi bastante trabalhosa, tendo em vista que são assuntos que ainda não vi em sala de aula.
+Comecei o projeto assim que recebi o e-mail com as infos da vaga de estágio. A partir dai começou a busca por conhecimento, seja por meio de documentações ou ainda tutoriais. 
+Como ainda não possuo um conhecimento técnico fundamentado, a aplicabilidade foi bastante trabalhosa, tendo em vista que são assuntos que ainda não vi em sala de aula.
 
-A grande novidade foi a utilização do NODE, bem como o uso do express. Mas atráves da leitura das documentações e tutoriais na internet tem sido proveitoso o momento de aprendizado.
-Independente de conseguir ou não a vaga, o projeto em si já foi muito bom para a evolução.
+A grande novidade foi a utilização do NODE, bem como o uso do express. Apesar das dificuldades, tem sido proveitoso o momento de aprendizado.
 
 # DIFICULDADES
 As miores dificuldades foram:
