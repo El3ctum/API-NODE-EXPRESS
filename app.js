@@ -9,7 +9,8 @@ const rotaPedidos = require('./routes/pedidos')
 app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({
     extended: false
-})); // apenas dados simples
+}));  // apenas dados simples
+
 app.use(bodyParser.json()); // json de entrada no body
 
 app.use((req, res, next) => {
